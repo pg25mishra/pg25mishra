@@ -9,7 +9,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Building+Projects+with+Python+%7C+C+%7C+C%2B%2B;Learning+Web+Development;API+Consumption+%2B+Integration;Python+%7C+C%2B%2B+%7C+SQL;Always+Learning+%7C+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Building+Projects+with+Python+%7C+C+%7C+C%2B%2B;Python+%7C+C%2B%2B+%7C+SQL;API+Consumption+%2B+Integration;Learning+Web+Development;Building+Practical+Projects;Always+Learning+%7C+Always+Building" />
 </p>
 
 <!-- Social Links -->
@@ -18,9 +18,11 @@
   <a href="https://www.linkedin.com/in/pragati-mishra-5a5902376">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+
+  <a href="mailto:pragatipreleshmishra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail"/>
   </a>
+
   <a href="https://github.com/pg25mishra">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
@@ -31,13 +33,27 @@
 ## 👩‍💻 About Me
 
 * 🎓 B.Tech CSE Student
-* 🐍 Building projects with Python
+* 🐍 Building practical applications with Python
 * 💻 Working with C and C++
-* 🌐 Learning and building with HTML & CSS
+* 🌐 Building and learning web applications with HTML & CSS
 * 🗄️ Working with SQL and database fundamentals
-* 🔌 Learning API consumption and API integration
+* 🔌 Working with API consumption and API integration
+* 🧩 Developing programming and problem-solving skills
 * 🚀 Interested in building practical software projects
-* 📚 Continuously improving programming and problem-solving skills
+* 📚 Continuously learning and improving my technical skills
+
+---
+
+## 📚 Current Focus
+
+* Advanced Python Programming
+* C & C++ Programming
+* Data Structures & Problem Solving
+* SQL & Database Fundamentals
+* Web Development with HTML & CSS
+* REST API Consumption
+* API Integration
+* Building Practical Projects
 
 ---
 
@@ -65,18 +81,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/API%20Consumption-000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API%20Integration-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-000?style=for-the-badge"/>
 </p>
-
----
-
-## 📚 Current Focus
-
-* Advanced Python Programming
-* C & C++ Programming
-* Data Structures & Problem Solving
-* SQL & Database Fundamentals
-* Web Development with HTML & CSS
-* REST API Consumption & Integration
 
 ---
 
@@ -98,9 +104,22 @@ A basic resume repository containing academic and professional information.
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pg25mishra&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pg25mishra&theme=dark&hide_border=true" />
+</p>
+
+---
+
 ## 📌 Quick Links
 
 * 🔗 LinkedIn: https://www.linkedin.com/in/pragati-mishra-5a5902376
+* 📧 Gmail: [pragatipreleshmishra@gmail.com](mailto:pragatipreleshmishra@gmail.com)
 * 💻 GitHub: https://github.com/pg25mishra
 
 ---
